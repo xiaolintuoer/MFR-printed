@@ -1,0 +1,19 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "image": {
+      "_type": "Image"
+    },
+    "label": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
